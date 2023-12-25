@@ -1,0 +1,101 @@
+city,lat,lng,country,iso2,admin_name,capital,population,population_proper
+Unterschleißheim,48.2833,11.5667,Germany,DE,Bavaria,,28907.0,28907.0
+Bühl,48.6953,8.135,Germany,DE,Baden-Württemberg,,28900.0,28900.0
+Schwandorf,49.3236,12.0993,Germany,DE,Bavaria,minor,28828.0,28828.0
+Höxter,51.7667,9.3667,Germany,DE,North Rhine-Westphalia,minor,28824.0,28824.0
+Rösrath,50.9,7.1833,Germany,DE,North Rhine-Westphalia,,28693.0,28693.0
+Schwelm,51.2904,7.2972,Germany,DE,North Rhine-Westphalia,minor,28542.0,28542.0
+Rendsburg,54.3044,9.6644,Germany,DE,Schleswig-Holstein,minor,28470.0,28470.0
+Steinheim am Main,50.1257,8.83,Germany,DE,Hesse,,28403.0,28403.0
+Winnenden,48.8764,9.3978,Germany,DE,Baden-Württemberg,,28339.0,28339.0
+Idar-Oberstein,49.7019,7.3253,Germany,DE,Rhineland-Palatinate,,28323.0,28323.0
+Bad Neuenahr-Ahrweiler,50.5447,7.1133,Germany,DE,Rhineland-Palatinate,minor,28251.0,28251.0
+Grimma,51.2386,12.7253,Germany,DE,Saxony,,28180.0,28180.0
+Wegberg,51.1333,6.2667,Germany,DE,North Rhine-Westphalia,,28175.0,28175.0
+Geislingen an der Steige,48.6244,9.8306,Germany,DE,Baden-Württemberg,,28122.0,28122.0
+Königsbrunn,48.2689,10.8908,Germany,DE,Bavaria,,28076.0,28076.0
+Meißen,51.1636,13.4775,Germany,DE,Saxony,minor,28044.0,28044.0
+Leichlingen,51.1167,7.0167,Germany,DE,North Rhine-Westphalia,,28031.0,28031.0
+Kevelaer,51.5833,6.25,Germany,DE,North Rhine-Westphalia,,28021.0,28021.0
+Zeitz,51.0478,12.1383,Germany,DE,Saxony-Anhalt,,27955.0,27955.0
+Emmendingen,48.1214,7.8492,Germany,DE,Baden-Württemberg,minor,27882.0,27882.0
+Sundern,51.3167,8.0,Germany,DE,North Rhine-Westphalia,,27802.0,27802.0
+Baunatal,51.2589,9.4183,Germany,DE,Hesse,,27750.0,27750.0
+Olching,48.2,11.3167,Germany,DE,Bavaria,,27741.0,27741.0
+Reinbek,53.5089,10.2483,Germany,DE,Schleswig-Holstein,,27649.0,27649.0
+Mechernich,50.6,6.65,Germany,DE,North Rhine-Westphalia,,27598.0,27598.0
+Wetter (Ruhr),51.3881,7.395,Germany,DE,North Rhine-Westphalia,,27441.0,27441.0
+Griesheim,49.8594,8.5525,Germany,DE,Hesse,,27435.0,27435.0
+Arnstadt,50.8342,10.9464,Germany,DE,Thuringia,minor,27304.0,27304.0
+Aschersleben,51.75,11.4667,Germany,DE,Saxony-Anhalt,,27220.0,27220.0
+Geilenkirchen,50.9653,6.1194,Germany,DE,North Rhine-Westphalia,,27214.0,27214.0
+Rheinbach,50.6256,6.9491,Germany,DE,North Rhine-Westphalia,,27063.0,27063.0
+Overath,50.95,7.3,Germany,DE,North Rhine-Westphalia,,27040.0,27040.0
+Baesweiler,50.9,6.1833,Germany,DE,North Rhine-Westphalia,,27033.0,27033.0
+Neustadt,48.8111,9.3656,Germany,DE,Baden-Württemberg,,26987.0,26987.0
+Leimen,49.3481,8.6911,Germany,DE,Baden-Württemberg,,26968.0,26968.0
+Wangen im Allgäu,47.6858,9.8342,Germany,DE,Baden-Württemberg,,26905.0,26905.0
+Schloß Holte-Stukenbrock,51.8833,8.6167,Germany,DE,North Rhine-Westphalia,,26776.0,26776.0
+Lohne,52.6667,8.2386,Germany,DE,Lower Saxony,,26762.0,26762.0
+Wiesloch,49.2942,8.6983,Germany,DE,Baden-Württemberg,,26758.0,26758.0
+Hamminkeln,51.7319,6.5908,Germany,DE,North Rhine-Westphalia,,26739.0,26739.0
+Strausberg,52.5808,13.8814,Germany,DE,Brandenburg,,26587.0,26587.0
+Lauf,49.5103,11.2772,Germany,DE,Bavaria,minor,26515.0,26515.0
+Neckarsulm,49.1917,9.2244,Germany,DE,Baden-Württemberg,,26492.0,26492.0
+Heiligenhaus,51.3265,6.971,Germany,DE,North Rhine-Westphalia,,26335.0,26335.0
+Sangerhausen,51.4667,11.3,Germany,DE,Saxony-Anhalt,minor,26297.0,26297.0
+Hennigsdorf,52.6378,13.2036,Germany,DE,Brandenburg,,26272.0,26272.0
+Ehingen an der Donau,48.2833,9.7236,Germany,DE,Baden-Württemberg,,26259.0,26259.0
+Butzbach,50.4367,8.6622,Germany,DE,Hesse,,26197.0,26197.0
+Nordenham,53.5,8.4667,Germany,DE,Lower Saxony,,26193.0,26193.0
+Hohen Neuendorf,52.6667,13.2831,Germany,DE,Brandenburg,,26159.0,26159.0
+Ludwigsfelde,52.2997,13.2667,Germany,DE,Brandenburg,,26112.0,26112.0
+Mühlacker,48.95,8.8392,Germany,DE,Baden-Württemberg,,26076.0,26076.0
+Heppenheim,49.6415,8.645,Germany,DE,Hesse,minor,26023.0,26023.0
+Selm,51.6833,7.4833,Germany,DE,North Rhine-Westphalia,,26011.0,26011.0
+Weiterstadt,49.9,8.6,Germany,DE,Hesse,,25975.0,25975.0
+Pfaffenhofen,48.5333,11.5167,Germany,DE,Bavaria,minor,25917.0,25917.0
+Kulmbach,50.1,11.4333,Germany,DE,Bavaria,minor,25915.0,25915.0
+Sankt Wendel,49.4667,7.1667,Germany,DE,Saarland,minor,25862.0,25862.0
+Teltow,52.4022,13.2706,Germany,DE,Brandenburg,,25825.0,25825.0
+Bad Honnef am Rhein,50.645,7.2269,Germany,DE,North Rhine-Westphalia,,25816.0,25816.0
+Helmstedt,52.2281,11.0106,Germany,DE,Lower Saxony,minor,25728.0,25728.0
+Bingen am Rhein,49.9669,7.895,Germany,DE,Rhineland-Palatinate,,25659.0,25659.0
+Achern,48.6314,8.0739,Germany,DE,Baden-Württemberg,,25630.0,25630.0
+Zirndorf,49.45,10.95,Germany,DE,Bavaria,,25596.0,25596.0
+Roth,49.2461,11.0911,Germany,DE,Bavaria,,25593.0,25593.0
+Lennestadt,51.1236,8.0681,Germany,DE,North Rhine-Westphalia,,25503.0,25503.0
+Verl,51.8831,8.5167,Germany,DE,North Rhine-Westphalia,,25498.0,25498.0
+Lindau,47.5458,9.6839,Germany,DE,Bavaria,,25490.0,25490.0
+Lübbecke,52.3081,8.6231,Germany,DE,North Rhine-Westphalia,,25490.0,25490.0
+Rinteln,52.1906,9.0814,Germany,DE,Lower Saxony,,25484.0,25484.0
+Brilon,51.3956,8.5678,Germany,DE,North Rhine-Westphalia,,25417.0,25417.0
+Staßfurt,51.8667,11.5667,Germany,DE,Saxony-Anhalt,,25385.0,25385.0
+Zittau,50.8961,14.8072,Germany,DE,Saxony,,25381.0,25381.0
+Plettenberg,51.2128,7.8715,Germany,DE,North Rhine-Westphalia,,25318.0,25318.0
+Groß-Gerau,49.9214,8.4818,Germany,DE,Hesse,minor,25302.0,25302.0
+Schleswig,54.5153,9.5697,Germany,DE,Schleswig-Holstein,minor,25276.0,25276.0
+Geretsried,47.8667,11.4667,Germany,DE,Bavaria,,25275.0,25275.0
+Rottweil,48.1681,8.6247,Germany,DE,Baden-Württemberg,minor,25274.0,25274.0
+Friedrichsdorf,50.2569,8.6418,Germany,DE,Hesse,,25194.0,25194.0
+Petershagen,52.3833,8.9667,Germany,DE,North Rhine-Westphalia,,25168.0,25168.0
+Pfungstadt,49.8056,8.6044,Germany,DE,Hesse,,25151.0,25151.0
+Harsewinkel,51.9667,8.2331,Germany,DE,North Rhine-Westphalia,,25147.0,25147.0
+Wiehl,50.95,7.5333,Germany,DE,North Rhine-Westphalia,,25135.0,25135.0
+Horb am Neckar,48.445,8.6911,Germany,DE,Baden-Württemberg,,25135.0,25135.0
+Rudolstadt,50.7169,11.3275,Germany,DE,Thuringia,,25115.0,25115.0
+Salzkotten,51.6708,8.6047,Germany,DE,North Rhine-Westphalia,,25062.0,25062.0
+Norden,53.5967,7.2056,Germany,DE,Lower Saxony,,25060.0,25060.0
+Weingarten,47.8078,9.6417,Germany,DE,Baden-Württemberg,,24943.0,24943.0
+Obertshausen,50.0715,8.8482,Germany,DE,Hesse,,24943.0,24943.0
+Idstein,50.2206,8.2692,Germany,DE,Hesse,,24897.0,24897.0
+Ditzingen,48.8264,9.0667,Germany,DE,Baden-Württemberg,,24883.0,24883.0
+Schmallenberg,51.1333,8.3,Germany,DE,North Rhine-Westphalia,,24869.0,24869.0
+Delitzsch,51.5264,12.3425,Germany,DE,Saxony,,24868.0,24868.0
+Warstein,51.45,8.3667,Germany,DE,North Rhine-Westphalia,,24842.0,24842.0
+Sprockhövel,51.3614,7.244,Germany,DE,North Rhine-Westphalia,,24747.0,24747.0
+Bad Oldesloe,53.8117,10.3742,Germany,DE,Schleswig-Holstein,minor,24744.0,24744.0
+Olpe,51.0289,7.8514,Germany,DE,North Rhine-Westphalia,minor,24688.0,24688.0
+Espelkamp,52.3772,8.6328,Germany,DE,North Rhine-Westphalia,,24685.0,24685.0
+Rathenow,52.6,12.3333,Germany,DE,Brandenburg,minor,24309.0,24309.0
+Senftenberg,51.5167,14.0167,Germany,DE,Brandenburg,minor,24275.0,24275.0

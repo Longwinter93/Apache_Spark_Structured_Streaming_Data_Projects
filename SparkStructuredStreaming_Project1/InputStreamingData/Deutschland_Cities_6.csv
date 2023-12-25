@@ -1,0 +1,101 @@
+city,lat,lng,country,iso2,admin_name,capital,population,population_proper
+Meiningen,50.55,10.4167,Germany,DE,Thuringia,minor,24233.0,24233.0
+Waldshut-Tiengen,47.6231,8.2144,Germany,DE,Baden-Württemberg,minor,24226.0,24226.0
+Sonneberg,50.35,11.1667,Germany,DE,Thuringia,minor,23830.0,23830.0
+Salzwedel,52.85,11.15,Germany,DE,Saxony-Anhalt,minor,23655.0,23655.0
+Calw,48.7144,8.7375,Germany,DE,Baden-Württemberg,minor,23590.0,23590.0
+Korbach,51.2719,8.8731,Germany,DE,Hesse,minor,23581.0,23581.0
+Starnberg,47.9972,11.3406,Germany,DE,Bavaria,minor,23498.0,23498.0
+Freudenstadt,48.4633,8.4111,Germany,DE,Baden-Württemberg,minor,23442.0,23442.0
+Mosbach,49.35,9.1333,Germany,DE,Baden-Württemberg,minor,23398.0,23398.0
+Husum,54.4769,9.0511,Germany,DE,Schleswig-Holstein,minor,23158.0,23158.0
+Westerstede,53.25,7.9167,Germany,DE,Lower Saxony,minor,22778.0,22778.0
+Burg,52.2725,11.855,Germany,DE,Saxony-Anhalt,minor,22478.0,22478.0
+Weilheim,47.8333,11.1333,Germany,DE,Bavaria,minor,22477.0,22477.0
+Bad Kissingen,50.2,10.0667,Germany,DE,Bavaria,minor,22444.0,22444.0
+Stadthagen,52.3247,9.2069,Germany,DE,Lower Saxony,minor,22247.0,22247.0
+Apolda,51.0247,11.5139,Germany,DE,Thuringia,minor,22012.0,22012.0
+Osterode,51.7286,10.2522,Germany,DE,Lower Saxony,minor,21731.0,21731.0
+Kitzingen,49.7333,10.1667,Germany,DE,Bavaria,minor,21704.0,21704.0
+Heide,54.1961,9.0933,Germany,DE,Schleswig-Holstein,minor,21684.0,21684.0
+Sonthofen,47.5142,10.2817,Germany,DE,Bavaria,minor,21541.0,21541.0
+Sondershausen,51.3667,10.8667,Germany,DE,Thuringia,minor,21513.0,21513.0
+Aichach,48.45,11.1333,Germany,DE,Bavaria,minor,21434.0,21434.0
+Germersheim,49.2167,8.3667,Germany,DE,Rhineland-Palatinate,minor,20779.0,20779.0
+Günzburg,48.4525,10.2711,Germany,DE,Bavaria,minor,20707.0,20707.0
+Luckenwalde,52.0831,13.1667,Germany,DE,Brandenburg,minor,20522.0,20522.0
+Traunstein,47.8683,12.6433,Germany,DE,Bavaria,minor,20520.0,20520.0
+Mühldorf,48.2456,12.5228,Germany,DE,Bavaria,minor,20323.0,20323.0
+Wittmund,53.5747,7.7808,Germany,DE,Lower Saxony,minor,20321.0,20321.0
+Bad Salzungen,50.8117,10.2333,Germany,DE,Thuringia,minor,20244.0,20244.0
+Lichtenfels,50.1333,11.0333,Germany,DE,Bavaria,minor,20133.0,20133.0
+Greiz,50.6547,12.1997,Germany,DE,Thuringia,minor,20103.0,20103.0
+Donauwörth,48.7184,10.777,Germany,DE,Bavaria,minor,20080.0,20080.0
+Torgau,51.5603,13.0056,Germany,DE,Saxony,minor,20065.0,20065.0
+Holzminden,51.8297,9.4483,Germany,DE,Lower Saxony,minor,19998.0,19998.0
+Dingolfing,48.6333,12.5,Germany,DE,Bavaria,minor,19839.0,19839.0
+Annaberg-Buchholz,50.58,13.0022,Germany,DE,Saxony,minor,19769.0,19769.0
+Eschwege,51.1881,10.0528,Germany,DE,Hesse,minor,19606.0,19606.0
+Haldensleben,52.2833,11.4167,Germany,DE,Saxony-Anhalt,minor,19247.0,19247.0
+Sömmerda,51.1617,11.1169,Germany,DE,Thuringia,minor,19034.0,19034.0
+Prenzlau,53.3167,13.8667,Germany,DE,Brandenburg,minor,19024.0,19024.0
+Wittlich,49.9869,6.8897,Germany,DE,Rhineland-Palatinate,minor,18995.0,18995.0
+Dillingen,48.5667,10.4667,Germany,DE,Bavaria,minor,18978.0,18978.0
+Bad Tölz,47.7603,11.5567,Germany,DE,Bavaria,minor,18802.0,18802.0
+Marktoberdorf,47.7667,10.6167,Germany,DE,Bavaria,minor,18539.0,18539.0
+Alzey,49.7517,8.1161,Germany,DE,Rhineland-Palatinate,minor,18535.0,18535.0
+Bad Dürkheim,49.4618,8.1724,Germany,DE,Rhineland-Palatinate,minor,18476.0,18476.0
+Weißenburg,49.0306,10.9719,Germany,DE,Bavaria,minor,18464.0,18464.0
+Bad Reichenhall,47.7247,12.8769,Germany,DE,Bavaria,minor,18278.0,18278.0
+Forst,51.7333,14.6333,Germany,DE,Brandenburg,minor,18164.0,18164.0
+Parchim,53.4167,11.8333,Germany,DE,Mecklenburg-Western Pomerania,minor,18037.0,18037.0
+Sigmaringen,48.0867,9.2164,Germany,DE,Baden-Württemberg,minor,17278.0,17278.0
+Bad Segeberg,53.9356,10.3089,Germany,DE,Schleswig-Holstein,minor,17267.0,17267.0
+Heilbad Heiligenstadt,51.3775,10.1344,Germany,DE,Thuringia,minor,17105.0,17105.0
+Eutin,54.1378,10.6181,Germany,DE,Schleswig-Holstein,minor,16971.0,16971.0
+Cham,49.2183,12.6658,Germany,DE,Bavaria,minor,16907.0,16907.0
+Diepholz,52.6072,8.3711,Germany,DE,Lower Saxony,minor,16882.0,16882.0
+Kronach,50.2411,11.3281,Germany,DE,Bavaria,minor,16874.0,16874.0
+Kelheim,48.9167,11.8667,Germany,DE,Bavaria,minor,16714.0,16714.0
+Bad Neustadt,50.3219,10.2161,Germany,DE,Bavaria,minor,15411.0,15411.0
+Künzelsau,49.2833,9.6833,Germany,DE,Baden-Württemberg,minor,15391.0,15391.0
+Mindelheim,48.0333,10.4667,Germany,DE,Bavaria,minor,15002.0,15002.0
+Brake,53.3333,8.4833,Germany,DE,Lower Saxony,minor,14965.0,14965.0
+Bitburg,49.9747,6.5256,Germany,DE,Rhineland-Palatinate,minor,14904.0,14904.0
+Ratzeburg,53.7017,10.7567,Germany,DE,Schleswig-Holstein,minor,14652.0,14652.0
+Jever,53.5744,7.9008,Germany,DE,Lower Saxony,minor,14301.0,14301.0
+Lübben,51.95,13.9,Germany,DE,Brandenburg,minor,14024.0,14024.0
+Montabaur,50.4375,7.8258,Germany,DE,Rhineland-Palatinate,minor,13691.0,13691.0
+Erbach,49.6569,8.9931,Germany,DE,Hesse,minor,13666.0,13666.0
+Lauterbach,50.6378,9.3944,Germany,DE,Hesse,minor,13664.0,13664.0
+Haßfurt,50.0353,10.5123,Germany,DE,Bavaria,minor,13609.0,13609.0
+Eichstätt,48.8919,11.1839,Germany,DE,Bavaria,minor,13525.0,13525.0
+Tauberbischofsheim,49.6225,9.6628,Germany,DE,Baden-Württemberg,minor,13231.0,13231.0
+Neustadt,49.58,10.6089,Germany,DE,Bavaria,minor,13121.0,13121.0
+Pfarrkirchen,48.4419,12.9443,Germany,DE,Bavaria,minor,12677.0,12677.0
+Ebersberg,48.0833,11.9667,Germany,DE,Bavaria,minor,12239.0,12239.0
+Perleberg,53.0667,11.8667,Germany,DE,Brandenburg,minor,12141.0,12141.0
+Bad Fallingbostel,52.8675,9.6967,Germany,DE,Lower Saxony,minor,11852.0,11852.0
+Hildburghausen,50.4261,10.7289,Germany,DE,Thuringia,minor,11836.0,11836.0
+Miesbach,47.789,11.8338,Germany,DE,Bavaria,minor,11562.0,11562.0
+Bad Schwalbach,50.1401,8.0694,Germany,DE,Hesse,minor,11187.0,11187.0
+Regen,48.97,13.1264,Germany,DE,Bavaria,minor,11001.0,11001.0
+Eisenberg,50.9667,11.9,Germany,DE,Thuringia,minor,10885.0,10885.0
+Altötting,48.2264,12.6759,Germany,DE,Bavaria,minor,10119.0,10119.0
+Bad Ems,50.3381,7.7106,Germany,DE,Rhineland-Palatinate,minor,9681.0,9681.0
+Lüchow,52.9667,11.15,Germany,DE,Lower Saxony,minor,9420.0,9420.0
+Miltenberg,49.7039,9.2644,Germany,DE,Bavaria,minor,9355.0,9355.0
+Wunsiedel,50.0374,11.9994,Germany,DE,Bavaria,minor,9259.0,9259.0
+Herzberg,51.6831,13.2331,Germany,DE,Brandenburg,minor,9027.0,9027.0
+Plön,54.1622,10.4214,Germany,DE,Schleswig-Holstein,minor,8914.0,8914.0
+Schleiz,50.5833,11.8167,Germany,DE,Thuringia,minor,8854.0,8854.0
+Tirschenreuth,49.8789,12.3369,Germany,DE,Bavaria,minor,8707.0,8707.0
+Beeskow,52.1667,14.25,Germany,DE,Brandenburg,minor,8042.0,8042.0
+Daun,50.1986,6.8319,Germany,DE,Rhineland-Palatinate,minor,7974.0,7974.0
+Simmern,49.9833,7.5167,Germany,DE,Rhineland-Palatinate,minor,7950.0,7950.0
+Kirchheimbolanden,49.6664,8.0117,Germany,DE,Rhineland-Palatinate,minor,7802.0,7802.0
+Freyung,48.8075,13.5475,Germany,DE,Bavaria,minor,7166.0,7166.0
+Birkenfeld,49.65,7.1833,Germany,DE,Rhineland-Palatinate,minor,6984.0,6984.0
+Altenkirchen,50.6872,7.6456,Germany,DE,Rhineland-Palatinate,minor,6263.0,6263.0
+Neustadt,49.7306,12.1706,Germany,DE,Bavaria,minor,5727.0,5727.0
+Seelow,52.5167,14.3831,Germany,DE,Brandenburg,minor,5426.0,5426.0

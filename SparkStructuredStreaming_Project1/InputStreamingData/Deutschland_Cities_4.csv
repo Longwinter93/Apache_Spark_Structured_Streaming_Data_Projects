@@ -1,0 +1,101 @@
+city,lat,lng,country,iso2,admin_name,capital,population,population_proper
+Coesfeld,51.9458,7.1675,Germany,DE,North Rhine-Westphalia,minor,36217.0,36217.0
+Mühlhausen,51.2167,10.45,Germany,DE,Thuringia,minor,36200.0,36200.0
+Wesseling,50.8207,6.9786,Germany,DE,North Rhine-Westphalia,,36146.0,36146.0
+Kehl,48.5711,7.8089,Germany,DE,Baden-Württemberg,,36089.0,36089.0
+Emsdetten,52.1728,7.5344,Germany,DE,North Rhine-Westphalia,,36012.0,36012.0
+Tuttlingen,47.985,8.8233,Germany,DE,Baden-Württemberg,minor,35730.0,35730.0
+Sankt Ingbert,49.3,7.1167,Germany,DE,Saarland,,35714.0,35714.0
+Porta Westfalica,52.2167,8.9333,Germany,DE,North Rhine-Westphalia,,35671.0,35671.0
+Sinsheim,49.25,8.8833,Germany,DE,Baden-Württemberg,,35442.0,35442.0
+Meppen,52.6906,7.291,Germany,DE,Lower Saxony,minor,35373.0,35373.0
+Limburg,50.3833,8.0667,Germany,DE,Hesse,minor,35243.0,35243.0
+Ingelheim,49.9747,8.0564,Germany,DE,Rhineland-Palatinate,minor,35146.0,35146.0
+Lage,51.9833,8.8,Germany,DE,North Rhine-Westphalia,,35047.0,35047.0
+Cloppenburg,52.8478,8.0439,Germany,DE,Lower Saxony,minor,34913.0,34913.0
+Winsen,53.3667,10.2167,Germany,DE,Lower Saxony,minor,34896.0,34896.0
+Mörfelden-Walldorf,49.9896,8.5661,Germany,DE,Hesse,,34828.0,34828.0
+Wermelskirchen,51.1392,7.2051,Germany,DE,North Rhine-Westphalia,,34765.0,34765.0
+Datteln,51.6539,7.3417,Germany,DE,North Rhine-Westphalia,,34614.0,34614.0
+Kempen,51.3658,6.4194,Germany,DE,North Rhine-Westphalia,,34597.0,34597.0
+Saarlouis,49.3167,6.75,Germany,DE,Saarland,minor,34552.0,34552.0
+Leer,53.2308,7.4528,Germany,DE,Lower Saxony,minor,34486.0,34486.0
+Seelze,52.3961,9.5981,Germany,DE,Lower Saxony,,34442.0,34442.0
+Crailsheim,49.1347,10.0706,Germany,DE,Baden-Württemberg,,34400.0,34400.0
+Barsinghausen,52.3031,9.4606,Germany,DE,Lower Saxony,,34234.0,34234.0
+Balingen,48.2731,8.8506,Germany,DE,Baden-Württemberg,minor,34217.0,34217.0
+Zweibrücken,49.2494,7.3608,Germany,DE,Rhineland-Palatinate,minor,34209.0,34209.0
+Viernheim,49.538,8.5792,Germany,DE,Hesse,,34175.0,34175.0
+Steinfurt,52.1504,7.3366,Germany,DE,North Rhine-Westphalia,minor,34084.0,34084.0
+Merseburg,51.3544,11.9928,Germany,DE,Saxony-Anhalt,minor,34080.0,34080.0
+Hemer,51.3833,7.7667,Germany,DE,North Rhine-Westphalia,,34080.0,34080.0
+Dietzenbach,50.0086,8.7756,Germany,DE,Hesse,,34019.0,34019.0
+Radebeul,51.1033,13.67,Germany,DE,Saxony,,34008.0,34008.0
+Bad Vilbel,50.1781,8.7361,Germany,DE,Hesse,,33990.0,33990.0
+Geldern,51.5197,6.3325,Germany,DE,North Rhine-Westphalia,,33836.0,33836.0
+Goch,51.6839,6.1619,Germany,DE,North Rhine-Westphalia,,33825.0,33825.0
+Kornwestheim,48.8597,9.185,Germany,DE,Baden-Württemberg,,33803.0,33803.0
+Uelzen,52.9647,10.5658,Germany,DE,Lower Saxony,minor,33614.0,33614.0
+Deggendorf,48.8353,12.9644,Germany,DE,Bavaria,minor,33585.0,33585.0
+Wedel,53.5833,9.7,Germany,DE,Schleswig-Holstein,,33547.0,33547.0
+Ahrensburg,53.6747,10.2411,Germany,DE,Schleswig-Holstein,,33472.0,33472.0
+Rheinfelden (Baden),47.5611,7.7917,Germany,DE,Baden-Württemberg,,33074.0,33074.0
+Korschenbroich,51.1833,6.5167,Germany,DE,North Rhine-Westphalia,,33066.0,33066.0
+Biberach,48.0981,9.7886,Germany,DE,Baden-Württemberg,minor,32938.0,32938.0
+Wernigerode,51.835,10.7853,Germany,DE,Saxony-Anhalt,,32733.0,32733.0
+Bernburg,51.8,11.7333,Germany,DE,Saxony-Anhalt,minor,32674.0,32674.0
+Jülich,50.9222,6.3583,Germany,DE,North Rhine-Westphalia,,32632.0,32632.0
+Lampertheim,49.5942,8.4671,Germany,DE,Hesse,,32537.0,32537.0
+Vechta,52.7306,8.2886,Germany,DE,Lower Saxony,minor,32433.0,32433.0
+Naumburg,51.1521,11.8098,Germany,DE,Saxony-Anhalt,minor,32402.0,32402.0
+Forchheim,49.7197,11.0581,Germany,DE,Bavaria,minor,32171.0,32171.0
+Bad Nauheim,50.3667,8.75,Germany,DE,Hesse,,32163.0,32163.0
+Hoyerswerda,51.4331,14.25,Germany,DE,Saxony,,32123.0,32123.0
+Altenburg,50.985,12.4333,Germany,DE,Thuringia,minor,32074.0,32074.0
+Delbrück,51.7667,8.5667,Germany,DE,North Rhine-Westphalia,,31949.0,31949.0
+Fürstenwalde,52.3667,14.0667,Germany,DE,Brandenburg,,31941.0,31941.0
+Achim,53.013,9.033,Germany,DE,Lower Saxony,,31911.0,31911.0
+Itzehoe,53.925,9.5164,Germany,DE,Schleswig-Holstein,minor,31879.0,31879.0
+Georgsmarienhütte,52.2031,8.0447,Germany,DE,Lower Saxony,,31827.0,31827.0
+Herrenberg,48.5967,8.8708,Germany,DE,Baden-Württemberg,,31545.0,31545.0
+Oer-Erkenschwick,51.6422,7.2508,Germany,DE,North Rhine-Westphalia,,31442.0,31442.0
+Radolfzell am Bodensee,47.7369,8.9697,Germany,DE,Baden-Württemberg,,31203.0,31203.0
+Kreuztal,50.962,8.0064,Germany,DE,North Rhine-Westphalia,,31187.0,31187.0
+Rheinberg,51.5467,6.6006,Germany,DE,North Rhine-Westphalia,,31097.0,31097.0
+Bramsche,52.4089,7.9728,Germany,DE,Lower Saxony,,30952.0,30952.0
+Neuruppin,52.9222,12.8,Germany,DE,Brandenburg,minor,30846.0,30846.0
+Einbeck,51.8167,9.8667,Germany,DE,Lower Saxony,,30826.0,30826.0
+Werl,51.5528,7.9139,Germany,DE,North Rhine-Westphalia,,30772.0,30772.0
+Schönebeck,52.0167,11.75,Germany,DE,Saxony-Anhalt,,30720.0,30720.0
+Burgdorf,52.45,10.0083,Germany,DE,Lower Saxony,,30699.0,30699.0
+Gevelsberg,51.3265,7.3559,Germany,DE,North Rhine-Westphalia,,30695.0,30695.0
+Geesthacht,53.4381,10.3747,Germany,DE,Schleswig-Holstein,,30551.0,30551.0
+Haan,51.1931,7.0131,Germany,DE,North Rhine-Westphalia,,30484.0,30484.0
+Lohmar,50.8415,7.2166,Germany,DE,North Rhine-Westphalia,,30363.0,30363.0
+Osterholz-Scharmbeck,53.2269,8.7947,Germany,DE,Lower Saxony,minor,30300.0,30300.0
+Weil am Rhein,47.5947,7.6108,Germany,DE,Baden-Württemberg,,30175.0,30175.0
+Ennepetal,51.3021,7.3425,Germany,DE,North Rhine-Westphalia,,30075.0,30075.0
+Riesa,51.3081,13.2939,Germany,DE,Saxony,,30054.0,30054.0
+Taunusstein,50.1435,8.1606,Germany,DE,Hesse,,30005.0,30005.0
+Andernach,50.4397,7.4017,Germany,DE,Rhineland-Palatinate,,29966.0,29966.0
+Meschede,51.3503,8.2836,Germany,DE,North Rhine-Westphalia,minor,29921.0,29921.0
+Schwedt (Oder),53.0631,14.2831,Germany,DE,Brandenburg,,29920.0,29920.0
+Friedberg,48.35,10.9833,Germany,DE,Bavaria,,29810.0,29810.0
+Bad Hersfeld,50.8683,9.7067,Germany,DE,Hesse,minor,29800.0,29800.0
+Gaggenau,48.8039,8.3194,Germany,DE,Baden-Württemberg,,29777.0,29777.0
+Merzig,49.4471,6.6312,Germany,DE,Saarland,minor,29745.0,29745.0
+Neuburg,48.7333,11.1833,Germany,DE,Bavaria,minor,29682.0,29682.0
+Derne,51.6667,7.6167,Germany,DE,North Rhine-Westphalia,,29662.0,29662.0
+Vaihingen an der Enz,48.9328,8.9564,Germany,DE,Baden-Württemberg,,29467.0,29467.0
+Rietberg,51.8,8.4333,Germany,DE,North Rhine-Westphalia,,29466.0,29466.0
+Saalfeld,50.6506,11.3542,Germany,DE,Thuringia,minor,29457.0,29457.0
+Bretten,49.0364,8.7061,Germany,DE,Baden-Württemberg,,29412.0,29412.0
+Waltrop,51.6167,7.3833,Germany,DE,North Rhine-Westphalia,,29345.0,29345.0
+Oelde,51.8258,8.1436,Germany,DE,North Rhine-Westphalia,,29326.0,29326.0
+Tönisvorst,51.3208,6.4931,Germany,DE,North Rhine-Westphalia,,29306.0,29306.0
+Güstrow,53.7939,12.1764,Germany,DE,Mecklenburg-Western Pomerania,minor,29241.0,29241.0
+Friedberg,50.3353,8.755,Germany,DE,Hesse,minor,29180.0,29180.0
+Landsberg,48.0528,10.8689,Germany,DE,Bavaria,minor,29132.0,29132.0
+Northeim,51.7067,10.0011,Germany,DE,Lower Saxony,minor,29107.0,29107.0
+Kelkheim (Taunus),50.138,8.4525,Germany,DE,Hesse,,29055.0,29055.0
+Springe,52.2167,9.55,Germany,DE,Lower Saxony,,28951.0,28951.0
