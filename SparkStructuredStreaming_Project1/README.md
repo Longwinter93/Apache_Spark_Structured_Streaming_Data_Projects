@@ -12,6 +12,8 @@
 <br />**Streaming DataFrame** with aggregation was saved as [json](https://github.com/Longwinter93/Streaming_Data_Projects/blob/main/SparkStructuredStreaming_Project1/GroupingDeutschlandCityStreaming.json) and [parquet](https://github.com/Longwinter93/Streaming_Data_Projects/blob/main/SparkStructuredStreaming_Project1/GroupingDeutschlandCityStreaming.parquet) files.
 
 
+All steps with detailed information is also described in [SparkStructuredStreaming_Project1.ipynb](https://github.com/Longwinter93/Apache_Spark_Structured_Streaming_Data_Projects/blob/main/SparkStructuredStreaming_Project1/SparkStructuredStreaming_Project1.ipynb)
+
 ## **FINAL RESULT OF PROJECT**
 <br />Data was processed in real-time in **Streaming DataFrame** from [csv files](https://github.com/Longwinter93/Streaming_Data_Projects/tree/main/SparkStructuredStreaming_Project1/InputStreamingData) _input source_ and output data was saved as JSON  and parquet files.
 <br />**Output sinks** (file sink) data without aggregations was stored in a [OutputNoAgg](https://github.com/Longwinter93/Streaming_Data_Projects/tree/main/SparkStructuredStreaming_Project1/OutputNoAgg) folder, while output of data with aggregations was saved as [JSON](https://github.com/Longwinter93/Streaming_Data_Projects/blob/main/SparkStructuredStreaming_Project1/GroupingDeutschlandCityStreaming.json) and [parquet](https://github.com/Longwinter93/Streaming_Data_Projects/blob/main/SparkStructuredStreaming_Project1/GroupingDeutschlandCityStreaming.parquet) files.
