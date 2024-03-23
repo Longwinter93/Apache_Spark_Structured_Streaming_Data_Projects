@@ -6,7 +6,7 @@
 ## [SparkStructuredStreaming_Project1](https://github.com/Longwinter93/Streaming_Data_Projects/tree/main/SparkStructuredStreaming_Project1)
 
 <br />CSV files was read as files written in a directory as a stream of data. 
-<br />_Input source_ is treated as file source.
+<br />**Input source** is treated as file source.
 <br />The final result of streaming data was saved in **Streaming DataFrame**. 
 <br />**Streaming DataFrame** was aggregated and not aggregated.
 <br />**Streaming DataFrame** was saved as JSON and parquet files. 
