@@ -9,7 +9,7 @@
 <br />**Streaming DataFrame** without any aggregations with streaming data was saved as [parquet](https://github.com/Longwinter93/Streaming_Data_Projects/tree/main/SparkStructuredStreaming_Project1/OutputNoAgg) files.
 <br />A few operations was performed on **Streaming DataFrame** for example aggregations.
 <br />This **Streaming Dataframe** with aggregation was placed in an in-memory table. 
-<br />**Streaming DataFrame** with aggregation was saved as json [json](https://github.com/Longwinter93/Streaming_Data_Projects/blob/main/SparkStructuredStreaming_Project1/GroupingDeutschlandCityStreaming.json) and [parquet](https://github.com/Longwinter93/Streaming_Data_Projects/blob/main/SparkStructuredStreaming_Project1/GroupingDeutschlandCityStreaming.parquet) files.
+<br />**Streaming DataFrame** with aggregation was saved as [json](https://github.com/Longwinter93/Streaming_Data_Projects/blob/main/SparkStructuredStreaming_Project1/GroupingDeutschlandCityStreaming.json) and [parquet](https://github.com/Longwinter93/Streaming_Data_Projects/blob/main/SparkStructuredStreaming_Project1/GroupingDeutschlandCityStreaming.parquet) files.
 
 
 ## **FINAL RESULT OF PROJECT**
