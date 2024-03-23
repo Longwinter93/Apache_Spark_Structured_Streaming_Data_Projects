@@ -7,12 +7,12 @@
 
 <br />CSV files was read as files written in a directory as a stream of data. 
 <br />_Input source_ is treated as file source.
-<br />The final result of streaming data was saved in a Streaming DataFrame. 
-<br />Streaming DataFrame was aggregated and not aggregated.
-<br />Streaming DataFrame was saved as JSON and parquet files. 
-<br />_Output sinks_ are treated as parquet and json files. 
-<br />Our _file sink_ stores the output to parquet as well as json files.
-<br />_Spark Streaming Engine_ proccesses these steps.
+<br />The final result of streaming data was saved in **Streaming DataFrame**. 
+<br />**Streaming DataFrame** was aggregated and not aggregated.
+<br />**Streaming DataFrame** was saved as JSON and parquet files. 
+<br />**Output sinks** are treated as parquet and json files (file sink). 
+<br />Our **file sink** stores the output to parquet as well as json files.
+<br />**Spark Streaming Engine** proccesses these steps.
 
 
 
