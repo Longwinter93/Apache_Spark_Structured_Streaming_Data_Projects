@@ -13,6 +13,3 @@
 <br />**Output sinks** are treated as parquet and json files (file sink). 
 <br />Our **file sink** stores the output to parquet as well as json files.
 <br />**Spark Streaming Engine** proccesses these steps.
-
-
-
